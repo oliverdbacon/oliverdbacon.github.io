@@ -1,8 +1,29 @@
-.box {
-	background-image: url(../img/Baground.png);
-	padding: 100px;
-	margin: 100px;
+.imageContainer {
+	width:2484;
+	height:544;
+	background-image: url("img/name.png")
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.img-name {
 	
-	background-size: contain;
-	background-position: center;
+}
+
+.img-release {
+	
+}
+
+html, body {
+
+
+
+margin:0;
+
+padding:0;
+
+
+
 }
